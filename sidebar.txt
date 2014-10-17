@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gha:home|Door43 (gha)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gha|d43-gha repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gha/archive/master.zip|d43-gha.zip]]
+
+**Recent Changes**
+{{changes>ns = gha}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gha|Ethnologue data]]
+
